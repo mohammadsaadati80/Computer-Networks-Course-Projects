@@ -4,3 +4,6 @@
 [submodule "CA2"]
 	path = CA2
 	url = https://github.com/mohammadsaadati80/NS2-WLAN
+[submodule "CA3"]
+	path = CA3
+	url = https://github.com/mohammadsaadati80/Network-Routing-Algorithms
